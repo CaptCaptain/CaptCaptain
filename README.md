@@ -16,4 +16,5 @@ SVB's Creator PUGs was a event organized by content creator SVB to test potentia
 - a change to the hero Mercy that gives her an ability to allow her teammates to fly
 - a system for transferring changes to the hero Echo when using her ability to duplicate another hero, ensuring the hero functions as close as possible to how she does in-game
 > Main Repository _(after merging)_: [https://github.com/Mitcheljager/svb-ow2](https://github.com/Mitcheljager/svb-ow2)
+
 > Individual Repository _(before merging)_: [https://github.com/CaptCaptain/ow2-svb-patch](https://github.com/CaptCaptain/ow2-svb-patch)

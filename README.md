@@ -1,6 +1,6 @@
 ### Hi there! 🌌
 
-I'm CaptCaptain, and I work on random projects using video game tools such as the Overwatch Workshop.
+I'm CaptCaptain, and I work on random projects using video game dev tools such as the Overwatch Workshop.
 
 ### Featured Projects
 #### [🌋 Survive the Disasters!](https://workshop.codes/GWZB4)
